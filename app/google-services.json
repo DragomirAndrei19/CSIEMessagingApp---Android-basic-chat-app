@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "359425571090",
+    "firebase_url": "https://csiemessagingappv1.firebaseio.com",
+    "project_id": "csiemessagingappv1",
+    "storage_bucket": "csiemessagingappv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359425571090:android:4b6c1d20c017b9524a5bcb",
+        "android_client_info": {
+          "package_name": "com.example.csiemessagingappv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359425571090-tba73ea7h602171cdngkjsm7a7ohhbgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csiemessagingappv1",
+            "certificate_hash": "98c3f5a80d825afdc15a74b03eb2c86c7f0df6e2"
+          }
+        },
+        {
+          "client_id": "359425571090-l64vno3ho2le895es63q3frvm9va3rhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwp7PdTIfrZj7J-xPBGifwP-VUacg-wlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359425571090-l64vno3ho2le895es63q3frvm9va3rhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

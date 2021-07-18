@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">CSIEMessagingAppv1</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="email_field">Email</string>
+
+
+    <!-- For google maps -->
+
+    <string name="map_key" translatable="false">AIzaSyCwp7PdTIfrZj7J-xPBGifwP-VUacg-wlA</string>
+
+    <string-array name="Countries">
+        <item>Romania</item>
+        <item>Germany</item>
+        <item>SUA</item>
+        <item>Finland</item>
+        <item>Spain</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">To be implemented in the future</string>
+    <string name="account_email">Account Email:</string>
+    <string name="password_prompt">Password:</string>
+    <string name="report_suggestion">Please detail the problem/suggestion:</string>
+    <string name="report_instructions">Send report to our database for review</string>
+    <string name="country_select_prompt">Select your country:</string>
+    <string name="help_json_prompt">Show real life support centers</string>
+    <string name="list_help_support_center">List of local support centers</string>
+    <string name="help_report_confirmation">Report Sent! Click the button for real life support centers.</string>
+    <string name="login_prompt">Login into an existing account</string>
+    <string name="issues_report_prompt">Having issues? Send a report!</string>
+    <string name="hint_display_name">Display Name</string>
+    <string name="welcome_prompt_act_start">Welcome to CSIE Chat App</string>
+    <string name="account_create_prompt">Need a new account?</string>
+    <string name="username_item_user">username</string>
+    <string name="log_in_prompt">Log In</string>
+    <string name="delete_bug_report_by_received_id">Delete bug report by received ID</string>
+    <string name="update_existing_report">Update existing report</string>
+    <string name="load_data_by_id_for_edit">LOAD DATA BY ID FOR EDIT</string>
+    <string name="update_check_prompt">If you want to update a bug report you sent, use the ID received</string>
+    <string name="id_of_report">ID of report:</string>
+    <string name="show_report2_btnPrompt">SHOW SENT REPORTS (only from current country/location)</string>
+    <string name="exportToTxt_btn_prompt">Export database report as TXT</string>
+    <string name="delete_reports_btn_prompt">Delete Reports</string>
+    <string name="show_report_btnPrompt">Show sent reports</string>
+    <string name="update_reports_btn_prompt">Update reports</string>
+    <string name="remember_login_prompt">Remember login info?</string>
+    <string name="type_msg_prompt">Type here your message...</string>
+    <string name="welcome_prompt">Hello!</string>
+    <string name="hello_prompt">Hello!</string>
+</resources>
